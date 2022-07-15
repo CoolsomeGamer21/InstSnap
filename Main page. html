@@ -1,0 +1,268 @@
+<html>
+
+/* image 1 */
+
+
+position: absolute;
+width: 1512px;
+height: 924px;
+left: 0px;
+top: 58px;
+
+background: url(image.png);
+
+
+/* Welcome to InstaSnap */
+
+
+position: absolute;
+width: 1054px;
+height: 100px;
+left: 229px;
+top: 82px;
+
+font-family: 'Frijole';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 88px;
+
+color: #000000;
+
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* instasnap.tech */
+
+
+position: absolute;
+width: 1500px;
+height: 64px;
+left: 12px;
+top: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* A social media service for content creators and small business owners */
+
+
+position: absolute;
+width: 447px;
+height: 203px;
+left: 48px;
+top: 168px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #1DD6FF;
+
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 223px;
+height: 176px;
+left: 357px;
+top: 432px;
+
+background: url(image.png);
+
+
+/* Anyone can join but posting and live streaming is reserved for creators and small businesses */
+
+
+position: absolute;
+width: 608px;
+height: 203px;
+left: 26px;
+top: 629px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #450909;
+
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 506px;
+height: 163px;
+left: 675px;
+top: 439px;
+
+background: #FE5CDA;
+
+
+/* InstaSnap */
+
+
+position: absolute;
+width: 438px;
+height: 123px;
+left: 711px;
+top: 453px;
+
+font-family: 'Grechen Fuemen';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 110px;
+
+color: #000000;
+
+
+
+/* Tap the logo to sign up */
+
+
+position: absolute;
+width: 298px;
+height: 126px;
+left: 38px;
+top: 428px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* You can chat with other creators and small business to get tips to grow your business */
+
+
+position: absolute;
+width: 517px;
+height: 181px;
+left: 540px;
+top: 147px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #132874;
+
+
+
+/* What makes us diffrent? We are making a new social media service for businesses */
+
+
+position: absolute;
+width: 539px;
+height: 267px;
+left: 664px;
+top: 640px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #74135E;
+
+
+
+/* Tap the logo to sign in */
+
+
+position: absolute;
+width: 309px;
+height: 131px;
+left: 1203px;
+top: 439px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Arrow 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 71px;
+height: 0px;
+left: 271px;
+top: 510px;
+
+border: 3px solid #000000;
+
+
+/* Arrow 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 71px;
+height: 0px;
+left: 1283px;
+top: 576.21px;
+
+border: 3px solid #000000;
+transform: rotate(-179.83deg);
+
+
+/* You get to keep 90% of the income you generate* */
+
+
+position: absolute;
+width: 461px;
+height: 180px;
+left: 1051px;
+top: 168px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #49FF0A;
+
+</html>
