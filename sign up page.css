@@ -1,0 +1,423 @@
+/* image 3 */
+
+
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1512px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* instasnap.tech/signup/R64Qt */
+
+
+position: absolute;
+width: 1500px;
+height: 64px;
+left: 12px;
+top: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* First Name */
+
+
+position: absolute;
+width: 268px;
+height: 64px;
+left: 25px;
+top: 193px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Occupation */
+
+
+position: absolute;
+width: 268px;
+height: 64px;
+left: 672px;
+top: 274px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Last Name */
+
+
+position: absolute;
+width: 268px;
+height: 64px;
+left: 25px;
+top: 344px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Email Address */
+
+
+position: absolute;
+width: 585px;
+height: 64px;
+left: 17px;
+top: 491px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Profile Name */
+
+
+position: absolute;
+width: 585px;
+height: 64px;
+left: 22px;
+top: 647px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 585px;
+height: 64px;
+left: 19px;
+top: 803px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Welcome to InstaSnap */
+
+
+position: absolute;
+width: 825px;
+height: 135px;
+left: 343px;
+top: 76px;
+
+font-family: 'Herr Von Muellerhoff';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 182px;
+
+color: #F5F5F5;
+
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 551px;
+height: 68px;
+left: 17px;
+top: 274px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 614px;
+height: 68px;
+left: 672px;
+top: 344px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 551px;
+height: 68px;
+left: 17px;
+top: 411px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 551px;
+height: 68px;
+left: 22px;
+top: 555px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 551px;
+height: 68px;
+left: 17px;
+top: 711px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 551px;
+height: 68px;
+left: 17px;
+top: 867px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 253px;
+height: 77px;
+left: 1198px;
+top: 117px;
+
+background: #4FFFFF;
+
+
+/* SAVE */
+
+
+position: absolute;
+width: 143px;
+height: 63px;
+left: 1253px;
+top: 122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Vikram */
+
+
+position: absolute;
+width: 554px;
+height: 68px;
+left: 28px;
+top: 274px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Singh */
+
+
+position: absolute;
+width: 554px;
+height: 68px;
+left: 28px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Vikram@Instasnap.tech */
+
+
+position: absolute;
+width: 554px;
+height: 68px;
+left: 25px;
+top: 567px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* @InstaSnap_Official */
+
+
+position: absolute;
+width: 554px;
+height: 68px;
+left: 12px;
+top: 711px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Content Creator(YouTuber) */
+
+
+position: absolute;
+width: 682px;
+height: 68px;
+left: 672px;
+top: 343px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* ......... */
+
+
+position: absolute;
+width: 207px;
+height: 68px;
+left: 28px;
+top: 849px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 259px;
+height: 75px;
+left: 672px;
+top: 548px;
+
+background: #7DC7DE;
+
+
+/* SIGN UP */
+
+
+position: absolute;
+width: 214px;
+height: 58px;
+left: 699px;
+top: 555px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
